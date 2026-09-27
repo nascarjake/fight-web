@@ -1,0 +1,380 @@
+[
+  {
+    "asset": "ceiling_fan",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/ceiling_fan",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/ceiling_fan/ceiling_fan.bin",
+    "path": "models/ceiling_fan/ceiling_fan.bin",
+    "bytes": 455032,
+    "md5": "f073b4dd387c8a6f9374307fc4b6f1df"
+  },
+  {
+    "asset": "ceiling_fan",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/ceiling_fan",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/ceiling_fan/ceiling_fan_1k.gltf",
+    "path": "models/ceiling_fan/ceiling_fan.gltf",
+    "bytes": 4777,
+    "md5": "c5ec36847eb915c1cc924a70edd88854"
+  },
+  {
+    "asset": "ceiling_fan",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/ceiling_fan",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceiling_fan/ceiling_fan_arm_1k.jpg",
+    "path": "models/ceiling_fan/textures/ceiling_fan_arm_1k.jpg",
+    "bytes": 566114,
+    "md5": "d1356bc14a05ecc25ae96d093e43c546"
+  },
+  {
+    "asset": "ceiling_fan",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/ceiling_fan",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceiling_fan/ceiling_fan_diff_1k.jpg",
+    "path": "models/ceiling_fan/textures/ceiling_fan_diff_1k.jpg",
+    "bytes": 392243,
+    "md5": "75f1c808dcd3ba2d7c22b00c724105b0"
+  },
+  {
+    "asset": "ceiling_fan",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/ceiling_fan",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceiling_fan/ceiling_fan_emissive_1k.jpg",
+    "path": "models/ceiling_fan/textures/ceiling_fan_emissive_1k.jpg",
+    "bytes": 36867,
+    "md5": "778d0adc5af793919e26c21da0d18032"
+  },
+  {
+    "asset": "ceiling_fan",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/ceiling_fan",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceiling_fan/ceiling_fan_nor_gl_1k.jpg",
+    "path": "models/ceiling_fan/textures/ceiling_fan_nor_gl_1k.jpg",
+    "bytes": 390818,
+    "md5": "c81e02695e4c8528b192b458f2db23c2"
+  },
+  {
+    "asset": "ceiling_fan",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/ceiling_fan",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ceiling_fan/ceiling_fan_spec_1k.jpg",
+    "path": "models/ceiling_fan/textures/ceiling_fan_spec_1k.jpg",
+    "bytes": 26647,
+    "md5": "7ba7036733c1e57ed3e9c3f01ac056ca"
+  },
+  {
+    "asset": "concrete_road_barrier",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/concrete_road_barrier",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/concrete_road_barrier/concrete_road_barrier.bin",
+    "path": "models/concrete_road_barrier/concrete_road_barrier.bin",
+    "bytes": 1374016,
+    "md5": "f256cb4d2bd9e5623b062502605dfcf2"
+  },
+  {
+    "asset": "concrete_road_barrier",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/concrete_road_barrier",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/concrete_road_barrier/concrete_road_barrier_1k.gltf",
+    "path": "models/concrete_road_barrier/concrete_road_barrier.gltf",
+    "bytes": 2868,
+    "md5": "6d6feaf068f434e8dc163a1a9d983f4a"
+  },
+  {
+    "asset": "concrete_road_barrier",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/concrete_road_barrier",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/concrete_road_barrier/concrete_road_barrier_arm_1k.jpg",
+    "path": "models/concrete_road_barrier/textures/concrete_road_barrier_arm_1k.jpg",
+    "bytes": 619502,
+    "md5": "a289412cc7fe2c265f0975b31d8edda1"
+  },
+  {
+    "asset": "concrete_road_barrier",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/concrete_road_barrier",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/concrete_road_barrier/concrete_road_barrier_diff_1k.jpg",
+    "path": "models/concrete_road_barrier/textures/concrete_road_barrier_diff_1k.jpg",
+    "bytes": 792641,
+    "md5": "0fc11541996e1ddbdb1875dff35bc1c9"
+  },
+  {
+    "asset": "concrete_road_barrier",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/concrete_road_barrier",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/concrete_road_barrier/concrete_road_barrier_nor_gl_1k.jpg",
+    "path": "models/concrete_road_barrier/textures/concrete_road_barrier_nor_gl_1k.jpg",
+    "bytes": 961760,
+    "md5": "5cc77a0a52de7f3e6c7405b5bfedfc6f"
+  },
+  {
+    "asset": "gothic_statue",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/gothic_statue",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/gothic_statue/gothic_statue.bin",
+    "path": "models/gothic_statue/gothic_statue.bin",
+    "bytes": 912484,
+    "md5": "64ff6a07591c56042e01c780dce7685b"
+  },
+  {
+    "asset": "gothic_statue",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/gothic_statue",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/gothic_statue/gothic_statue_1k.gltf",
+    "path": "models/gothic_statue/gothic_statue.gltf",
+    "bytes": 2900,
+    "md5": "4fb49ae8f4278a0f5f1c7ca89a416f69"
+  },
+  {
+    "asset": "gothic_statue",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/gothic_statue",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gothic_statue/gothic_statue_arm_1k.jpg",
+    "path": "models/gothic_statue/textures/gothic_statue_arm_1k.jpg",
+    "bytes": 960949,
+    "md5": "0403abefbd62dfc03eb6b237d6d82119"
+  },
+  {
+    "asset": "gothic_statue",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/gothic_statue",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gothic_statue/gothic_statue_diff_1k.jpg",
+    "path": "models/gothic_statue/textures/gothic_statue_diff_1k.jpg",
+    "bytes": 1037433,
+    "md5": "a8110eba7602d4d3ff00b05abf25397e"
+  },
+  {
+    "asset": "gothic_statue",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/gothic_statue",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gothic_statue/gothic_statue_nor_gl_1k.jpg",
+    "path": "models/gothic_statue/textures/gothic_statue_nor_gl_1k.jpg",
+    "bytes": 1064867,
+    "md5": "ecba6e86dc6dd8195710765f4889c895"
+  },
+  {
+    "asset": "modular_industrial_pipes_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/modular_industrial_pipes_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/modular_industrial_pipes_01/modular_industrial_pipes_01.bin",
+    "path": "models/modular_industrial_pipes_01/modular_industrial_pipes_01.bin",
+    "bytes": 515160,
+    "md5": "a18d063dc719e19b9c20d2f8c0a8bec4"
+  },
+  {
+    "asset": "modular_industrial_pipes_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/modular_industrial_pipes_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/modular_industrial_pipes_01/modular_industrial_pipes_01_1k.gltf",
+    "path": "models/modular_industrial_pipes_01/modular_industrial_pipes_01.gltf",
+    "bytes": 15014,
+    "md5": "cb30fdf4d471374ba439bfd5a0c8105d"
+  },
+  {
+    "asset": "modular_industrial_pipes_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/modular_industrial_pipes_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modular_industrial_pipes_01/modular_industrial_pipes_01_group01_arm_1k.jpg",
+    "path": "models/modular_industrial_pipes_01/textures/modular_industrial_pipes_01_group01_arm_1k.jpg",
+    "bytes": 860825,
+    "md5": "2ab8f10dc9ca832af70cd48183281f97"
+  },
+  {
+    "asset": "modular_industrial_pipes_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/modular_industrial_pipes_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modular_industrial_pipes_01/modular_industrial_pipes_01_group01_diff_1k.jpg",
+    "path": "models/modular_industrial_pipes_01/textures/modular_industrial_pipes_01_group01_diff_1k.jpg",
+    "bytes": 553576,
+    "md5": "28678434837d64476cb8d75d0314166e"
+  },
+  {
+    "asset": "modular_industrial_pipes_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/modular_industrial_pipes_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modular_industrial_pipes_01/modular_industrial_pipes_01_group01_nor_gl_1k.jpg",
+    "path": "models/modular_industrial_pipes_01/textures/modular_industrial_pipes_01_group01_nor_gl_1k.jpg",
+    "bytes": 674568,
+    "md5": "a5d4deb3ea6772c0af1275edeab7dc94"
+  },
+  {
+    "asset": "modular_industrial_pipes_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/modular_industrial_pipes_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modular_industrial_pipes_01/modular_industrial_pipes_01_group02_arm_1k.jpg",
+    "path": "models/modular_industrial_pipes_01/textures/modular_industrial_pipes_01_group02_arm_1k.jpg",
+    "bytes": 898932,
+    "md5": "088f90ba0d60c13ff0d6fc43cf734372"
+  },
+  {
+    "asset": "modular_industrial_pipes_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/modular_industrial_pipes_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modular_industrial_pipes_01/modular_industrial_pipes_01_group02_diff_1k.jpg",
+    "path": "models/modular_industrial_pipes_01/textures/modular_industrial_pipes_01_group02_diff_1k.jpg",
+    "bytes": 580676,
+    "md5": "d3d951f471cfcd15e89cedcd43d28606"
+  },
+  {
+    "asset": "modular_industrial_pipes_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/modular_industrial_pipes_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modular_industrial_pipes_01/modular_industrial_pipes_01_group02_nor_gl_1k.jpg",
+    "path": "models/modular_industrial_pipes_01/textures/modular_industrial_pipes_01_group02_nor_gl_1k.jpg",
+    "bytes": 725187,
+    "md5": "282735667b3cd6e2d0ef058f2c260740"
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/rock_moss_set_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/rock_moss_set_01/rock_moss_set_01.bin",
+    "path": "models/rock_moss_set_01/rock_moss_set_01.bin",
+    "bytes": 1466380,
+    "md5": "207a51c9f56d34732e9814bbf9cc07b1"
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/rock_moss_set_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/rock_moss_set_01/rock_moss_set_01_1k.gltf",
+    "path": "models/rock_moss_set_01/rock_moss_set_01.gltf",
+    "bytes": 9987,
+    "md5": "75113cc1c21806cca5d8badad4737af7"
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/rock_moss_set_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/rock_moss_set_01/rock_moss_set_01_diff_1k.jpg",
+    "path": "models/rock_moss_set_01/textures/rock_moss_set_01_diff_1k.jpg",
+    "bytes": 168099,
+    "md5": "b8742301e6b4bc5683d2de712e83f772"
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/rock_moss_set_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/rock_moss_set_01/rock_moss_set_01_nor_gl_1k.jpg",
+    "path": "models/rock_moss_set_01/textures/rock_moss_set_01_nor_gl_1k.jpg",
+    "bytes": 209975,
+    "md5": "eb7ebd31ad08e78d0497900652ff1568"
+  },
+  {
+    "asset": "rock_moss_set_01",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/rock_moss_set_01",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/rock_moss_set_01/rock_moss_set_01_rough_1k.jpg",
+    "path": "models/rock_moss_set_01/textures/rock_moss_set_01_rough_1k.jpg",
+    "bytes": 82624,
+    "md5": "ed9d8a2c863262f76f881346e8047c6a"
+  },
+  {
+    "asset": "industrial_sunset_02",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/industrial_sunset_02",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/industrial_sunset_02_2k.hdr",
+    "path": "skies/industrial_sunset_02_2k.hdr",
+    "bytes": 6434769,
+    "md5": "d764f93706cd34aaa96b8b6d3dda920b"
+  },
+  {
+    "asset": "shanghai_bund",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/shanghai_bund",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/shanghai_bund_2k.hdr",
+    "path": "skies/shanghai_bund_2k.hdr",
+    "bytes": 6467753,
+    "md5": "7514519fbe8a917aa2e4829f3b52cdde"
+  },
+  {
+    "asset": "spruit_sunrise",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/spruit_sunrise",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/spruit_sunrise_2k.hdr",
+    "path": "skies/spruit_sunrise_2k.hdr",
+    "bytes": 5934209,
+    "md5": "9d78ba2e8fd230951e7e7dbb50a6b4db"
+  },
+  {
+    "asset": "hangar_concrete_floor",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/hangar_concrete_floor",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/hangar_concrete_floor/hangar_concrete_floor_diff_2k.jpg",
+    "path": "textures/hangar_concrete_floor_diff.jpg",
+    "bytes": 2559056,
+    "md5": "35e620ca791e0105e680ef775ecf719d"
+  },
+  {
+    "asset": "hangar_concrete_floor",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/hangar_concrete_floor",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/hangar_concrete_floor/hangar_concrete_floor_nor_gl_2k.jpg",
+    "path": "textures/hangar_concrete_floor_normal.jpg",
+    "bytes": 3100672,
+    "md5": "c255711a514478d91cd6e0424def0471"
+  },
+  {
+    "asset": "hangar_concrete_floor",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/hangar_concrete_floor",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/hangar_concrete_floor/hangar_concrete_floor_rough_2k.jpg",
+    "path": "textures/hangar_concrete_floor_rough.jpg",
+    "bytes": 2367272,
+    "md5": "ade247a5fb74d12f1cbffdac5ebfd630"
+  },
+  {
+    "asset": "medieval_blocks_02",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/medieval_blocks_02",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_02/medieval_blocks_02_diff_2k.jpg",
+    "path": "textures/medieval_blocks_02_diff.jpg",
+    "bytes": 2668806,
+    "md5": "d97f9a5b1e18c28723b6f38c7f700476"
+  },
+  {
+    "asset": "medieval_blocks_02",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/medieval_blocks_02",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_02/medieval_blocks_02_nor_gl_2k.jpg",
+    "path": "textures/medieval_blocks_02_normal.jpg",
+    "bytes": 4108235,
+    "md5": "25cf223f291b017cf3d335c15a06e21b"
+  },
+  {
+    "asset": "medieval_blocks_02",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/medieval_blocks_02",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/medieval_blocks_02/medieval_blocks_02_rough_2k.jpg",
+    "path": "textures/medieval_blocks_02_rough.jpg",
+    "bytes": 880494,
+    "md5": "86ba199a52a5ff84f81b4a0f9dac2d25"
+  },
+  {
+    "asset": "rusty_metal_sheet",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/rusty_metal_sheet",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_sheet/rusty_metal_sheet_diff_2k.jpg",
+    "path": "textures/rusty_metal_sheet_diff.jpg",
+    "bytes": 2802519,
+    "md5": "a7af114ffca2ec2b363acc7d55007439"
+  },
+  {
+    "asset": "rusty_metal_sheet",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/rusty_metal_sheet",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_sheet/rusty_metal_sheet_nor_gl_2k.jpg",
+    "path": "textures/rusty_metal_sheet_normal.jpg",
+    "bytes": 2058355,
+    "md5": "62d002f82b62d442569f9b60e18fe256"
+  },
+  {
+    "asset": "rusty_metal_sheet",
+    "license": "CC0-1.0",
+    "source_page": "https://polyhaven.com/a/rusty_metal_sheet",
+    "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rusty_metal_sheet/rusty_metal_sheet_rough_2k.jpg",
+    "path": "textures/rusty_metal_sheet_rough.jpg",
+    "bytes": 2157951,
+    "md5": "e2f9b105b53183ea7767b94daa479cef"
+  }
+]

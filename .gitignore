@@ -1,3 +1,6 @@
+.godot/
+build/
+__pycache__/
 node_modules/
 dist/
 .DS_Store

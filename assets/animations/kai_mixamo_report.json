@@ -1,0 +1,209 @@
+{
+  "bake_fps": 60,
+  "clips": [
+    {
+      "clip": "kai_idle",
+      "duration": 3.3,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "kai_idle",
+      "source_contact": 0.0,
+      "source_seconds": 3.3,
+      "trim_end": 3.3,
+      "trim_start": 0.0
+    },
+    {
+      "clip": "kai_walk",
+      "duration": 1.0,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "kai_step_forward",
+      "source_contact": 0.0,
+      "source_seconds": 1.0,
+      "trim_end": 1.0,
+      "trim_start": 0.0
+    },
+    {
+      "clip": "kai_walk_back",
+      "duration": 0.9,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "kai_step_backward",
+      "source_contact": 0.0,
+      "source_seconds": 0.9,
+      "trim_end": 0.9,
+      "trim_start": 0.0
+    },
+    {
+      "clip": "kai_jab",
+      "duration": 0.316666666666667,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "kai_jab",
+      "source_contact": 0.433333333333333,
+      "source_seconds": 1.73333333333333,
+      "trim_end": 0.983333333333333,
+      "trim_start": 0.153333333333333
+    },
+    {
+      "clip": "kai_cross",
+      "duration": 0.516666666666667,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "kai_cross",
+      "source_contact": 0.35,
+      "source_seconds": 0.85,
+      "trim_end": 0.85,
+      "trim_start": 0.07
+    },
+    {
+      "clip": "kai_low_kick",
+      "duration": 0.516666666666667,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "kai_low_kick",
+      "source_contact": 0.6,
+      "source_seconds": 1.5,
+      "trim_end": 1.15,
+      "trim_start": 0.32
+    },
+    {
+      "clip": "kai_launcher",
+      "duration": 0.75,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "kai_uppercut",
+      "source_contact": 0.7,
+      "source_seconds": 2.18333333333333,
+      "trim_end": 1.25,
+      "trim_start": 0.42
+    },
+    {
+      "clip": "kai_hit",
+      "duration": 0.4,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "kai_hit",
+      "source_contact": 0.0,
+      "source_seconds": 0.916666666666667,
+      "trim_end": 0.916666666666667,
+      "trim_start": 0.0
+    },
+    {
+      "clip": "kai_down",
+      "duration": 2.13333333333333,
+      "grounded": false,
+      "mapped_bones": 52,
+      "source": "kai_knockdown",
+      "source_contact": 0.0,
+      "source_seconds": 2.13333333333333,
+      "trim_end": 2.13333333333333,
+      "trim_start": 0.0
+    },
+    {
+      "clip": "kai_getup",
+      "duration": 8.33333333333333,
+      "grounded": false,
+      "mapped_bones": 52,
+      "source": "kai_getup",
+      "source_contact": 0.0,
+      "source_seconds": 8.33333333333333,
+      "trim_end": 8.33333333333333,
+      "trim_start": 0.0
+    },
+    {
+      "clip": "kai_body_hook",
+      "duration": 0.466666666666667,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "body_hook",
+      "source_contact": 0.666666666666667,
+      "source_seconds": 1.88333333333333,
+      "trim_end": 1.21666666666667,
+      "trim_start": 0.386666666666667
+    },
+    {
+      "clip": "kai_knee",
+      "duration": 0.566666666666667,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "knee",
+      "source_contact": 0.833333333333333,
+      "source_seconds": 2.25,
+      "trim_end": 1.38333333333333,
+      "trim_start": 0.553333333333333
+    },
+    {
+      "clip": "kai_spin_kick",
+      "duration": 0.8,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "kick_spin",
+      "source_contact": 0.966666666666667,
+      "source_seconds": 2.03333333333333,
+      "trim_end": 1.51666666666667,
+      "trim_start": 0.686666666666667
+    },
+    {
+      "clip": "kai_side_kick",
+      "duration": 0.65,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "kick_side",
+      "source_contact": 1.0,
+      "source_seconds": 1.6,
+      "trim_end": 1.55,
+      "trim_start": 0.72
+    },
+    {
+      "clip": "kai_dodge",
+      "duration": 0.4,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "dodge_advance",
+      "source_contact": 0.0,
+      "source_seconds": 2.33333333333333,
+      "trim_end": 2.33333333333333,
+      "trim_start": 0.0
+    },
+    {
+      "clip": "kai_burst",
+      "duration": 0.75,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "elbow",
+      "source_contact": 1.1,
+      "source_seconds": 1.66666666666667,
+      "trim_end": 1.65,
+      "trim_start": 0.82
+    },
+    {
+      "clip": "kai_finisher",
+      "duration": 1.05,
+      "grounded": true,
+      "mapped_bones": 52,
+      "source": "hook_rear",
+      "source_contact": 0.7,
+      "source_seconds": 2.16666666666667,
+      "trim_end": 1.25,
+      "trim_start": 0.42
+    },
+    {
+      "clip": "kai_cinematic",
+      "contact_frames": [
+        42,
+        70,
+        108,
+        160
+      ],
+      "duration": 3.5,
+      "source_hashes": {
+        "kai_body_hook": "b861d3b88994f7d7f47afc3a785c366170e66746a9c7341533969c844378edfd",
+        "kai_knee": "c219f3e1e2e263cdff3c85e196b073f047444daa1056ac0b69e62e1692c8f62d",
+        "kai_launcher": "cea4c4420e5444f7a9b9193b0366a50e609641f1097f4e53423cd2ea263b19db",
+        "kai_spin_kick": "81275e6dc47fef22018d02aeea4496d3526e4ab179426b1c8c6c8ae9a5f8b9fc"
+      }
+    }
+  ],
+  "fighter": "kai"
+}

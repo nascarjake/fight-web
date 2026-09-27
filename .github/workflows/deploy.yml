@@ -1,4 +1,4 @@
-name: Deploy game to GitHub Pages
+name: Export and deploy RIFT RIOT to GitHub Pages
 
 on:
   push:
@@ -20,17 +20,33 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-      - run: npm ci
-      - run: npm run build
+
+      - name: Install Godot and the Web export template
+        run: |
+          curl --fail --location --retry 3 --output godot.zip \
+            https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.x86_64.zip
+          unzip -q godot.zip
+          mv Godot_v4.7.2-stable_linux.x86_64 godot
+          chmod +x godot
+          curl --fail --location --retry 3 --output export_templates.tpz \
+            https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_export_templates.tpz
+          mkdir -p "$HOME/.local/share/godot/export_templates/4.7.2.stable"
+          unzip -j -q export_templates.tpz \
+            templates/web_nothreads_release.zip templates/version.txt \
+            -d "$HOME/.local/share/godot/export_templates/4.7.2.stable"
+
+      - name: Import and export the WebGL 2 build
+        run: |
+          ./godot --headless --path . --editor --import --quit
+          mkdir -p build/web
+          ./godot --headless --path . --export-release Web build/web/index.html
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: build/web
       - id: deployment
         uses: actions/deploy-pages@v4

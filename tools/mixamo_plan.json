@@ -1,0 +1,427 @@
+{
+  "schema_version": 1,
+  "source_index": "https://github.com/juanjo4martinez/mixamo-downloader/blob/main/src/mixamo_anims.json",
+  "notes": "Source candidates, not production-ready or retargeted clips. Live availability is checked during export. Use one source rig; preserve original root motion for local processing.",
+  "animations": [
+    {
+      "id": "c9c63ce7-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Male Fight Idle Boxing Stance",
+      "role": "kai_idle",
+      "batch": "pilot",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb50af-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Short Boxing Step Forward",
+      "role": "kai_step_forward",
+      "batch": "pilot",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cadb92-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Short Boxing Step Backward",
+      "role": "kai_step_backward",
+      "batch": "pilot",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c71c43-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Leading Hand Jab",
+      "role": "kai_jab",
+      "batch": "pilot",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c5f8da-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Cross Punch",
+      "role": "kai_cross",
+      "batch": "pilot",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cd28fc-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Mma Low Kick",
+      "role": "kai_low_kick",
+      "batch": "pilot",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c70319-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Back Hand Uppercut",
+      "role": "kai_uppercut",
+      "batch": "pilot",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb06f7-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Receiving A Medium Hit From A Straight Punch",
+      "role": "kai_hit",
+      "batch": "pilot",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9ca7f74-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Male Knocked Down From A Punch",
+      "role": "kai_knockdown",
+      "batch": "pilot",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c7276e-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Getting Up From Back",
+      "role": "kai_getup",
+      "batch": "pilot",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c70517-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Idle",
+      "role": "idle_boxing",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cadd1a-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Bouncing Boxing Idle",
+      "role": "idle_bounce",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cd050b-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Mma Standing Idle",
+      "role": "idle_mma",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c63c12-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Male Fight Idle Thai Chi To Open Stance",
+      "role": "idle_open",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb1b52-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Medium Boxing Step Forward",
+      "role": "step_forward_medium",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cadc5e-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Medium Boxing Step Backward",
+      "role": "step_back_medium",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c720b7-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Advancing Forward",
+      "role": "walk_boxing",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cae5a2-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Short Left Boxing Side Step",
+      "role": "sidestep_left",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cae7e9-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Short Right Boxing Side Step",
+      "role": "sidestep_right",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c619e3-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Dodge Retreat",
+      "role": "dodge_retreat",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c61914-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Dodge Advance",
+      "role": "dodge_advance",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c5f7e1-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Jab Punch",
+      "role": "jab_alternative",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c70b4b-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Back Hand Hook",
+      "role": "hook_rear",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c717c6-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Lead Hand Hook",
+      "role": "hook_lead",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c71880-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Lead Hand Uppercut",
+      "role": "uppercut_lead",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c61b83-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Male Elbow Punch",
+      "role": "elbow",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cadea3-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Illegal Elbow Uppercut",
+      "role": "elbow_rising",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cae022-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Illegal Knee",
+      "role": "knee",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb0db7-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Short Hook Punch To The Body",
+      "role": "body_hook",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c61f91-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Male Front Snap Kick With The Lead Foot",
+      "role": "kick_front",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cd3af5-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Mma Roundhouse Kick",
+      "role": "kick_roundhouse",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cd39f5-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Mma High Kick",
+      "role": "kick_high",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cd278a-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Mma Side Kick",
+      "role": "kick_side",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cd2845-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Mma Spinning Back Kick",
+      "role": "kick_spin",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c7abe7-b96c-11e4-a802-0aaa78deedf9",
+      "description": "360 Leg Sweep Kick",
+      "role": "sweep",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c71cfd-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Flying Hurricane Kick",
+      "role": "kick_air",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb07b2-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Receiving A Light Hit From A Straight Punch",
+      "role": "hit_light",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb0637-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Receiving A Big Hit From A Straight Punch",
+      "role": "hit_heavy",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb5234-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Receiving A Medium Hit To The Head From A Left Punch",
+      "role": "hit_left",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb04b8-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Receiving A Medium Hit From A Right Punch",
+      "role": "hit_right",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb0034-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Receiving A Body Hit By A Straight Punch",
+      "role": "hit_body",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb0936-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Getting Hit By An Uppercut",
+      "role": "hit_launch",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9caee1d-b96c-11e4-a802-0aaa78deedf9",
+      "description": "High Center Block",
+      "role": "guard_high",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9caf317-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Low Center Block",
+      "role": "guard_low",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c72233-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Blocking Body With Arms",
+      "role": "guard_body",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c725f7-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Knocked Out Falling To Back",
+      "role": "knockout_back",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c7216e-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Knocked Out Falling To Stomach",
+      "role": "knockout_front",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c71f39-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Getting Up From Stomach",
+      "role": "getup_front",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9ccee21-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Jump In Place",
+      "role": "jump",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9ceec50-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Jumping And Landing In Place",
+      "role": "jump_land",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c808ef-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Landing From Jump",
+      "role": "land",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c99c82-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Mid-Air Falling To A Hard Landing",
+      "role": "hard_land",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c7060b-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Jab Cross Combo",
+      "role": "combo_jab_cross",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9caf4f2-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Four Punch Combo",
+      "role": "combo_four",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c7a323-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Triple Knee Jabs To Uppercut Combo",
+      "role": "combo_knee_uppercut",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c7f360-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Elbow-Uppercut Strike Combo",
+      "role": "combo_elbow_uppercut",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9c7a3e0-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Grab Attacker Then Twist Arm And Kick Head",
+      "role": "grapple_reference",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb3a87-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Victory From A Boxing Win",
+      "role": "victory",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb3946-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Boxing Taunt",
+      "role": "taunt",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    },
+    {
+      "id": "c9cb3878-b96c-11e4-a802-0aaa78deedf9",
+      "description": "Defeat From A Boxing Loss",
+      "role": "defeat",
+      "batch": "expansion",
+      "review_status": "source_candidate"
+    }
+  ]
+}
